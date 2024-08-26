@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+main{
+    max-width: 1280px;
+    margin: auto;
+    min-height: 90vh;
+    padding: 10px;
+}
+
+.shadow-custom {
+    box-shadow: 3px 3px 0 #F35A14; /* 20px horizontal, 20px vertical, no blur, color */
+  }
+  
